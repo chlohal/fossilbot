@@ -8,7 +8,7 @@
   },
   "author": "coleh1346",
   "dependencies": {
-    "async": "^2.6.0",
+    "async": "^3.2.2",
     "bad-words": "^1.6.3",
     "bayes": "0.0.7",
     "better-sqlite3": "^5.4.3",
