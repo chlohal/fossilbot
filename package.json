@@ -28,7 +28,7 @@
     "import-scripts": "^1.0.0",
     "is-regex": "^1.0.4",
     "isstream": "^0.1.2",
-    "jsdom": "^13.2.0",
+    "jsdom": "^16.5.0",
     "nodemailer": "^5.1.1",
     "options": "^0.0.6",
     "opusscript": "0.0.6",
