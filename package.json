@@ -20,7 +20,7 @@
     "discord.io": "github:woor/discord.io#gateway_v6",
     "eslint-plugin-json": "^1.4.0",
     "eslint-plugin-require-path-exists": "^1.1.9",
-    "express": "^4.16.3",
+    "express": "^4.18.2",
     "eyes": "^0.1.8",
     "fast-html-parser": "^1.0",
     "fs": "^0.0.2",
